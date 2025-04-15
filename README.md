@@ -5,7 +5,7 @@ Hola, soy Ezequiel, un desarrollador web apasionado por crear soluciones funcion
 🔗 **Conéctame:**
 
 - 📧 [Email](mailto:ezequiel.souza.18@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/ezequiel-souza-maldonado](https://www.linkedin.com/in/ezequiel-souza-maldonado/)  
+-🔗 LinkedIn: [linkedin.com/in/ezequiel-souza-maldonado](https://www.linkedin.com/in/ezequiel-souza-maldonado/)  
 ## 🛠️ Tecnologías y Herramientas
 
 - **Frontend:** HTML5, CSS3, JavaScript, Vue 3, TypeScript
