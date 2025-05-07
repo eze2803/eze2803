@@ -7,7 +7,7 @@ Hola, soy Ezequiel, un desarrollador web apasionado por crear soluciones funcion
 📍 Montevideo, Uruguay  
 📫 Contacto: ezequiel.souza.18@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/ezequiel-souza-maldonado](https://www.linkedin.com/in/ezequiel-souza-maldonado/)  
-👨‍💻 GitHub: [github.com/eze2803](https://github.com/eze2803)
+
 
 
 - **Frontend:** HTML5, CSS3, JavaScript, Vue 3, TypeScript
